@@ -1,0 +1,2 @@
+import React from 'react'
+export default function About(){return (<section className='py-20 bg-white'><div className='max-w-4xl mx-auto px-6 text-center'><h2 className='text-3xl font-bold mb-4 text-slate-900'>About CyGuardian</h2><p className='text-slate-600 max-w-3xl mx-auto'>CyGuardian Consulting is led by Solomon Madimetja Maponyane — an ISO 27001 Lead Auditor and cybersecurity professional focused on helping organizations create audit-ready ISMS and resilient security programs.</p></div></section>)}

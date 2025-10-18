@@ -1,0 +1,2 @@
+import React from 'react';
+export default function Footer(){return (<footer className='bg-white border-t mt-12'><div className='max-w-6xl mx-auto px-6 py-8 text-sm text-slate-600 flex flex-col md:flex-row justify-between items-center gap-4'><div>© {new Date().getFullYear()} CyGuardian Consulting</div><div>Email: <a className='text-primary' href='mailto:solomon@cheezeafrica.co.za'>solomon@cheezeafrica.co.za</a><span className='mx-2'>•</span>WhatsApp: <a className='text-primary' href='https://wa.me/27645427061'>+27 64 542 7061</a></div></div></footer>);}
